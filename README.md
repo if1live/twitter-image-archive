@@ -2,6 +2,8 @@
 Downloads all images from Twitter Archive.
 You can see attached image while you are offline.
 
+![screenshot](https://raw.githubusercontent.com/if1live/twitter-image-archive/master/document/twitter-image-archive-sample.png)
+
 ## Usage
 1. Download twitter archive.
 2. Go to twitter settings -> Account -> Your Twitter archive.
