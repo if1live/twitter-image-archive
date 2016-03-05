@@ -1,0 +1,33 @@
+{
+  "name": "twitter-image-archive",
+  "version": "0.0.1",
+  "description": "Downloads all images from Twitter Archive",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "./node_modules/.bin/jasmine-node spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/if1live/twitter-image-archive.git"
+  },
+  "keywords": [
+    "twitter",
+    "archive"
+  ],
+  "author": "if1live",
+  "bugs": {
+    "url": "https://github.com/if1live/twitter-image-archive/issues"
+  },
+  "homepage": "https://github.com/if1live/twitter-image-archive#readme",
+  "dependencies": {
+    "glob": "^7.0.0",
+    "underscore": "^1.8.3",
+    "mkdirp": "^0.5.1",
+    "jasmine": "^2.4.1",
+    "jasmine-node": "^1.14.5",
+    "request": "^2.69.0",
+    "async": "^1.5.2",
+    "deasync": "^0.1.4"
+  }
+}

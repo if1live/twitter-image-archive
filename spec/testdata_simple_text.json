@@ -1,0 +1,23 @@
+{
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "693810000542823936",
+  "text" : "dummy",
+  "id" : 693810000542823936,
+  "created_at" : "2016-01-31 15:05:54 +0000",
+  "user" : {
+    "name" : "\uC528\uC5B8",
+    "screen_name" : "if1live",
+    "protected" : true,
+    "id_str" : "63709382",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/671688812007809024\/4vIrI5gJ_normal.png",
+    "id" : 63709382,
+    "verified" : false
+  }
+}
